@@ -44,11 +44,7 @@ namespace TriangleCalc
                         double x = double.Parse(Console.ReadLine());
                         double y = double.Parse(Console.ReadLine());
                         double z = double.Parse(Console.ReadLine());
-                        if (x <= 0)
-                            throw new Exception("Значение стороны треугольника не может быть меньше или равно 0!");
-                        if (y <= 0)
-                            throw new Exception("Значение стороны треугольника не может быть меньше или равно 0!");
-                        if (z <= 0)
+                        if (x <= 0 | y <= 0 | z <= 0 )
                             throw new Exception("Значение стороны треугольника не может быть меньше или равно 0!");
                         double Sq = Operation.TriangleSquare(x, y, z);
                         if (Sq != 0)
