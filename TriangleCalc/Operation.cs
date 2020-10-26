@@ -11,7 +11,7 @@ namespace TriangleCalc
         static bool Existance(double a, double b, double c) // треугольник существует, если сумма значений двух сторон больше значения третьей
         {
             bool ok;
-            if ((a + b) > c && (a + c) > b && (b + c) > a)
+            if ((a + b) > c & (a + c) > b & (b + c) > a)
                 ok = true;
             else
             {
