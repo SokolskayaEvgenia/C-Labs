@@ -1,0 +1,7 @@
+E:\JENK\ОБУЧЕНИЕ\Курс_Инженер-программист\Программирование С#\MyLabs\MyLabs07\Books\bin\Debug\Books.exe.config
+E:\JENK\ОБУЧЕНИЕ\Курс_Инженер-программист\Программирование С#\MyLabs\MyLabs07\Books\bin\Debug\Books.exe
+E:\JENK\ОБУЧЕНИЕ\Курс_Инженер-программист\Программирование С#\MyLabs\MyLabs07\Books\bin\Debug\Books.pdb
+E:\JENK\ОБУЧЕНИЕ\Курс_Инженер-программист\Программирование С#\MyLabs\MyLabs07\Books\obj\Debug\Books.csprojAssemblyReference.cache
+E:\JENK\ОБУЧЕНИЕ\Курс_Инженер-программист\Программирование С#\MyLabs\MyLabs07\Books\obj\Debug\Books.csproj.CoreCompileInputs.cache
+E:\JENK\ОБУЧЕНИЕ\Курс_Инженер-программист\Программирование С#\MyLabs\MyLabs07\Books\obj\Debug\Books.exe
+E:\JENK\ОБУЧЕНИЕ\Курс_Инженер-программист\Программирование С#\MyLabs\MyLabs07\Books\obj\Debug\Books.pdb
