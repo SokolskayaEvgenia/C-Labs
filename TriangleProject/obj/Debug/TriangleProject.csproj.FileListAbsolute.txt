@@ -1,0 +1,6 @@
+E:\JENK\ОБУЧЕНИЕ\Курс_Инженер-программист\Программирование С#\MyLabs\MyLabs07\TriangleProject\bin\Debug\TriangleProject.exe.config
+E:\JENK\ОБУЧЕНИЕ\Курс_Инженер-программист\Программирование С#\MyLabs\MyLabs07\TriangleProject\bin\Debug\TriangleProject.exe
+E:\JENK\ОБУЧЕНИЕ\Курс_Инженер-программист\Программирование С#\MyLabs\MyLabs07\TriangleProject\bin\Debug\TriangleProject.pdb
+E:\JENK\ОБУЧЕНИЕ\Курс_Инженер-программист\Программирование С#\MyLabs\MyLabs07\TriangleProject\obj\Debug\TriangleProject.csproj.CoreCompileInputs.cache
+E:\JENK\ОБУЧЕНИЕ\Курс_Инженер-программист\Программирование С#\MyLabs\MyLabs07\TriangleProject\obj\Debug\TriangleProject.exe
+E:\JENK\ОБУЧЕНИЕ\Курс_Инженер-программист\Программирование С#\MyLabs\MyLabs07\TriangleProject\obj\Debug\TriangleProject.pdb
