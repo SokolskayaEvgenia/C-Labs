@@ -1,0 +1,7 @@
+E:\JENK\ОБУЧЕНИЕ\Курс_Инженер-программист\Программирование С#\MyLabs\MyLabs09\Figures\bin\Debug\Figures.exe.config
+E:\JENK\ОБУЧЕНИЕ\Курс_Инженер-программист\Программирование С#\MyLabs\MyLabs09\Figures\bin\Debug\Figures.exe
+E:\JENK\ОБУЧЕНИЕ\Курс_Инженер-программист\Программирование С#\MyLabs\MyLabs09\Figures\bin\Debug\Figures.pdb
+E:\JENK\ОБУЧЕНИЕ\Курс_Инженер-программист\Программирование С#\MyLabs\MyLabs09\Figures\obj\Debug\Figures.csprojAssemblyReference.cache
+E:\JENK\ОБУЧЕНИЕ\Курс_Инженер-программист\Программирование С#\MyLabs\MyLabs09\Figures\obj\Debug\Figures.csproj.CoreCompileInputs.cache
+E:\JENK\ОБУЧЕНИЕ\Курс_Инженер-программист\Программирование С#\MyLabs\MyLabs09\Figures\obj\Debug\Figures.exe
+E:\JENK\ОБУЧЕНИЕ\Курс_Инженер-программист\Программирование С#\MyLabs\MyLabs09\Figures\obj\Debug\Figures.pdb
