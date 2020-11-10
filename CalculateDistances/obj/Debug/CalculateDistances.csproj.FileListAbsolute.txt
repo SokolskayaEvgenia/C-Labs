@@ -1,0 +1,7 @@
+E:\JENK\ОБУЧЕНИЕ\Курс_Инженер-программист\Программирование С#\MyLabs\MyLabs11\CalculateDistances\bin\Debug\CalculateDistances.exe.config
+E:\JENK\ОБУЧЕНИЕ\Курс_Инженер-программист\Программирование С#\MyLabs\MyLabs11\CalculateDistances\bin\Debug\CalculateDistances.exe
+E:\JENK\ОБУЧЕНИЕ\Курс_Инженер-программист\Программирование С#\MyLabs\MyLabs11\CalculateDistances\bin\Debug\CalculateDistances.pdb
+E:\JENK\ОБУЧЕНИЕ\Курс_Инженер-программист\Программирование С#\MyLabs\MyLabs11\CalculateDistances\obj\Debug\CalculateDistances.csprojAssemblyReference.cache
+E:\JENK\ОБУЧЕНИЕ\Курс_Инженер-программист\Программирование С#\MyLabs\MyLabs11\CalculateDistances\obj\Debug\CalculateDistances.csproj.CoreCompileInputs.cache
+E:\JENK\ОБУЧЕНИЕ\Курс_Инженер-программист\Программирование С#\MyLabs\MyLabs11\CalculateDistances\obj\Debug\CalculateDistances.exe
+E:\JENK\ОБУЧЕНИЕ\Курс_Инженер-программист\Программирование С#\MyLabs\MyLabs11\CalculateDistances\obj\Debug\CalculateDistances.pdb
