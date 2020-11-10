@@ -1,0 +1,6 @@
+E:\JENK\ОБУЧЕНИЕ\Курс_Инженер-программист\Программирование С#\MyLabs\Зачет\EducationalCenter\bin\Debug\EducationalCenter.exe.config
+E:\JENK\ОБУЧЕНИЕ\Курс_Инженер-программист\Программирование С#\MyLabs\Зачет\EducationalCenter\bin\Debug\EducationalCenter.exe
+E:\JENK\ОБУЧЕНИЕ\Курс_Инженер-программист\Программирование С#\MyLabs\Зачет\EducationalCenter\bin\Debug\EducationalCenter.pdb
+E:\JENK\ОБУЧЕНИЕ\Курс_Инженер-программист\Программирование С#\MyLabs\Зачет\EducationalCenter\obj\Debug\EducationalCenter.csproj.CoreCompileInputs.cache
+E:\JENK\ОБУЧЕНИЕ\Курс_Инженер-программист\Программирование С#\MyLabs\Зачет\EducationalCenter\obj\Debug\EducationalCenter.exe
+E:\JENK\ОБУЧЕНИЕ\Курс_Инженер-программист\Программирование С#\MyLabs\Зачет\EducationalCenter\obj\Debug\EducationalCenter.pdb
